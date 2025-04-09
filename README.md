@@ -12,9 +12,9 @@
 | **Category**  | **Skills** |
 |--------------|------------|
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" alt="Languages"> |
-| **AI/ML** | <img src="https://skillicons.dev/icons?i=scikit,matplotlib,pandas,numpy" alt="AI/ML"> |
+| **AI/ML** | <img src="https://skillicons.dev/icons?i=scikit,tensorflow,pytorch" alt="ML Frameworks"> <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2596BE?logo=python&logoColor=white) <br> ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) |
 | **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Dev"> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,docker,linux,unity,vscode" alt="Tools"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,linux,unity,vscode" alt="Tools"> |
 
 </div>
 
@@ -23,27 +23,24 @@
 ### 🎮 **Featured Projects**  
 <div align="center">
   
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Iris Classifier](https://github.com/harsh3100/iris-classification)** | ML model to classify iris species | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E) |
-| **[Flappy Bird Clone](https://github.com/harsh3100/flappy-bird)** | Unity game with C# physics | ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp) |
-| **[Student Performance Predictor](https://github.com/harsh3100/student_performance_predictor)** | Predicts grades with 95% accuracy | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter) |
+| Project | Tech | Highlights |
+|---------|------|------------|
+| **[Iris Classifier](https://github.com/harsh3100/iris-classification)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E) | EDA • Classification • Model Evaluation |
+| **[Student Performance Predictor](https://github.com/harsh3100/student_performance_predictor)** | ![Pandas](https://img.shields.io/badge/-Pandas-150458) ![Seaborn](https://img.shields.io/badge/-Seaborn-2596BE) | 95% Accuracy • Data Visualization |
+| **[Flappy Bird Clone](https://github.com/harsh3100/flappy-bird)** | ![Unity](https://img.shields.io/badge/-Unity-000000) ![C#](https://img.shields.io/badge/-C%23-239120) | Physics • Score System • Obstacle Generation |
 
 </div>
 
 ---
 
-### 📊 **GitHub Activity**  
+### 📊 **GitHub Highlights**  
 <div align="center">
 
-<!-- GitHub Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=harsh3100&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
+<!-- Compact Language Cards -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3100&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
 
-<!-- Streak Stats -->
-[![Streak](https://streak-stats.demolab.com?user=harsh3100&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
-
-<!-- Snake Animation -->
-![Contribution Snake](https://github.com/harsh3100/harsh3100/blob/output/github-contribution-grid-snake.svg)
+<!-- Weekly Activity -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh3100&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -52,16 +49,16 @@
 ### 🤖 **Let's Connect!**  
 <p align="center">
   <a href="mailto:harshsinghworkofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email_Me-FF5252?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/harsh3100">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently_Learning-ML%20%7C%20Game%20Dev-8A2BE2?style=for-the-badge" alt="Learning">
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge" alt="Open Source">
+  <img src="https://img.shields.io/badge/🌱_Currently_Learning-Advanced_NLP-8A2BE2?style=for-the-badge" alt="Learning">
+  <img src="https://img.shields.io/badge/🚀_Next_Goal-Contribute_to_TensorFlow-FF6F00?style=for-the-badge" alt="Goal">
 </p>
