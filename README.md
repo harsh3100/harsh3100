@@ -12,8 +12,8 @@
 | **Category**  | **Skills** |
 |--------------|------------|
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" alt="Languages"> |
-| **AI/ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,pandas" alt="AI/ML"> |
-| **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" alt="Web Dev"> |
+| **AI/ML** | <img src="https://skillicons.dev/icons?i=scikit learn,matplotlib,pandas,numpy" alt="AI/ML"> |
+| **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Dev"> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,docker,linux,unity,vscode" alt="Tools"> |
 
 </div>
@@ -57,14 +57,6 @@
 ---
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/harsh3100">
-    <img src="https://img.shields.io/github/followers/harsh3100?label=Followers&style=for-the-badge&color=blue" alt="Followers">
-    <img src="https://img.shields.io/github/stars/harsh3100?label=Stars&style=for-the-badge&color=yellow" alt="Stars">
-  </a>
-  
-  <!-- Learning Badge with Calendar -->
-  <a href="https://github.com/harsh3100">
-    <img src="https://img.shields.io/badge/🗓️_Learning_This_Week-LLMs%20|%20Web3-8A2BE2?style=for-the-badge" alt="Currently Learning">
-  </a>
+  <img src="https://img.shields.io/badge/🌱_Growing-Every_Day-4BC51D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🚀_Next_Goal-Contribute_to_Open_Source-FF6D00?style=for-the-badge">
 </p>
