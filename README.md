@@ -57,6 +57,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh3100&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
-  <img src="https://img.shields.io/badge/Currently%20Learning-Quantum%20Computing-8A2BE2?style=flat" alt="Learning">
+  <a href="https://github.com/harsh3100?tab=followers">
+    <img src="https://img.shields.io/github/followers/harsh3100?label=Followers&style=social" alt="Followers">
+  </a>
+  <a href="https://github.com/harsh3100">
+    <img src="https://img.shields.io/badge/Learning-AI%20%7C%20Game%20Dev-8A2BE2?logo=github" alt="Learning">
+  </a>
 </p>
