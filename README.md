@@ -1,59 +1,60 @@
-# 👋 Hi, I’m Harsh Singh 
+# 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗛𝗮𝗿𝘀𝗵 𝗦𝗶𝗻𝗴𝗵 👋
 
-**Computer Science Student** @ [Sikkim Manipal Institute of Technology](https://www.smit.smu.edu.in/) | **ML & Data Science Enthusiast** | **Problem Solver**  
-
-📫 **Connect with me:**  
-[![Email](https://img.shields.io/badge/Email-harsh_202300551@smit.smu.edu.in-blue?style=flat&logo=gmail)](mailto:harsh_202300551@smit.smu.edu.in) 
-[![GitHub](https://img.shields.io/badge/GitHub-harsh3100-black?style=flat&logo=github)](https://github.com/harsh3100) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Profile-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/) *(add your link!)*  
+**🎓 Computer Science Student** @ [Sikkim Manipal Institute of Technology](https://www.smit.smu.edu.in)  
+**🧠 AI/ML Enthusiast** | **💻 Full-Stack Explorer** | **🎮 Game Dev Hobbyist**
 
 ---
 
-### 🚀 **About Me**  
-- 🔭 Passionate about **Machine Learning, Data Science, and Information Retrieval**.  
-- 📚 Currently mastering **DSA, ML algorithms, and full-stack development**.  
-- 🎯 Goal: Building impactful projects that bridge theory and real-world applications.  
-- ⚡ Fun fact: I love game dev too! (Check out my Flappy Bird clone below).  
+### 📬 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲  
+| [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:harsh_202300551@smit.smu.edu.in) | [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/harsh3100) |
+|--|--|--|--|
 
 ---
 
-### 🛠 **Skills**  
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-**ML/Data Science:**  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
+#### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+#### 𝗠𝗟/𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
+#### 𝗪𝗲𝗯 𝗗𝗲𝘃
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🔥 **Featured Projects**  
-
-#### 1. [Iris Flower Classification](https://github.com/harsh3100/iris-classification)  
-- Built a **classification model** using scikit-learn to predict iris species.  
-- Performed **EDA and visualization** to analyze feature importance.  
-
-#### 2. [House Price Prediction](https://github.com/harsh3100/house_price_prediction)  
-- Developed a **regression model** using the Boston Housing dataset.  
-- Evaluated performance with **MSE and R² metrics**.  
-
-#### 3. [Student Performance Predictor](https://github.com/harsh3100/student_performance_predictor)  
-- Achieved **R² score of 0.95** using Pandas and scikit-learn.  
-- Documented workflow in a **Jupyter Notebook**.  
-
-#### 4. **Flappy Bird Clone** (Unity + C#)  
-- Designed custom physics, scoring, and obstacle mechanics.  
-
-*(More projects on my [GitHub](https://github.com/harsh3100)!)*  
+#### 𝗧𝗼𝗼𝗹𝘀 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
+### 🌟 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Iris Classification](https://github.com/harsh3100/iris-classification)** | ML model to classify iris species | Python, scikit-learn, Pandas |
+| **[House Price Prediction](https://github.com/harsh3100/house_price_prediction)** | Regression model for real estate pricing | Python, Matplotlib, NumPy |
+| **[Student Performance Predictor](https://github.com/harsh3100/student_performance_predictor)** | Predicts grades with 95% accuracy | Python, EDA, Jupyter |
+| **Flappy Bird Clone** | Unity game with C# physics | Unity, C# |
+
+---
+
+### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh3100&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3100&layout=compact&theme=dark)
+
+---
+
+### 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁 🎮  
+When I'm not coding, I'm probably building indie games or automating random tasks!
