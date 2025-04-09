@@ -57,10 +57,14 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/harsh3100?tab=followers">
-    <img src="https://img.shields.io/github/followers/harsh3100?label=Followers&style=social" alt="Followers">
-  </a>
+  <!-- GitHub Stats -->
   <a href="https://github.com/harsh3100">
-    <img src="https://img.shields.io/badge/Learning-AI%20%7C%20Game%20Dev-8A2BE2?logo=github" alt="Learning">
+    <img src="https://img.shields.io/github/followers/harsh3100?label=Followers&style=for-the-badge&color=blue" alt="Followers">
+    <img src="https://img.shields.io/github/stars/harsh3100?label=Stars&style=for-the-badge&color=yellow" alt="Stars">
+  </a>
+  
+  <!-- Learning Badge with Calendar -->
+  <a href="https://github.com/harsh3100">
+    <img src="https://img.shields.io/badge/🗓️_Learning_This_Week-LLMs%20|%20Web3-8A2BE2?style=for-the-badge" alt="Currently Learning">
   </a>
 </p>
