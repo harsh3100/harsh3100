@@ -1,59 +1,62 @@
-# 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗛𝗮𝗿𝘀𝗵 𝗦𝗶𝗻𝗴𝗵 👋
+# 𝙃𝙚𝙮 𝙩𝙝𝙚𝙧𝙚! 𝙄'𝙢 𝙃𝙖𝙧𝙨𝙝 𝙎𝙞𝙣𝙜𝙝 👾
 
-**🎓 Computer Science Student** @ [Sikkim Manipal Institute of Technology](https://www.smit.smu.edu.in)  
-**🧠 AI/ML Enthusiast** | **💻 Full-Stack Explorer** | **🎮 Game Dev Hobbyist**
-
----
-
-### 📬 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲  
-| [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:harsh_202300551@smit.smu.edu.in) | [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/harsh3100) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ML+Enthusiast+%F0%9F%A7%A0;Game+Dev+Hobbyist+%F0%9F%8E%AE;Python+%7C+Java+%7C+C%2B%2B+%F0%9F%92%BB;Turning+Coffee+Into+Code+%E2%98%95" alt="Animated Typing Text">
+</p>
 
 ---
 
-### 🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 🚀 **Tech Stack**  
+<div align="center">
+  
+| **Category**  | **Skills** |
+|--------------|------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" alt="Languages"> |
+| **AI/ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,pandas" alt="AI/ML"> |
+| **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" alt="Web Dev"> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,docker,linux,unity,vscode" alt="Tools"> |
 
-#### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 𝗠𝗟/𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### 𝗪𝗲𝗯 𝗗𝗲𝘃
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### 𝗧𝗼𝗼𝗹𝘀 & 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
 ---
 
-### 🌟 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+### 🎮 **Featured Projects**  
+<div align="center">
+  
+| Project | Preview | Tech |  
+|---------|---------|------|
+| **[Iris Classifier](https://github.com/harsh3100/iris-classification)** | <img src="https://img.shields.io/badge/🔍-EDA-blue?style=flat" alt="EDA"> <img src="https://img.shields.io/badge/🤖-ML-orange?style=flat" alt="ML"> | `Python` `scikit-learn` |
+| **[Flappy Bird Clone](https://github.com/harsh3100/flappy-bird)** | <img src="https://img.shields.io/badge/🎮-Game%20Dev-brightgreen?style=flat" alt="Game Dev"> | `Unity` `C#` |
+| **[Student Performance Predictor](https://github.com/harsh3100/student_performance_predictor)** | <img src="https://img.shields.io/badge/📊-95%25%20Accuracy-success?style=flat" alt="Accuracy"> | `Pandas` `Matplotlib` |
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Iris Classification](https://github.com/harsh3100/iris-classification)** | ML model to classify iris species | Python, scikit-learn, Pandas |
-| **[House Price Prediction](https://github.com/harsh3100/house_price_prediction)** | Regression model for real estate pricing | Python, Matplotlib, NumPy |
-| **[Student Performance Predictor](https://github.com/harsh3100/student_performance_predictor)** | Predicts grades with 95% accuracy | Python, EDA, Jupyter |
-| **Flappy Bird Clone** | Unity game with C# physics | Unity, C# |
-
----
-
-### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh3100&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3100&layout=compact&theme=dark)
+</div>
 
 ---
 
-### 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁 🎮  
-When I'm not coding, I'm probably building indie games or automating random tasks!
+### 📊 **GitHub Activity**  
+<div align="center">
+  
+<!-- GitHub Stats with Fun Theme -->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh3100&show_icons=true&theme=merko&hide_border=true&bg_color=00000000&include_all_commits=true)
+
+<!-- Streak Stats with Fire Animation -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=harsh3100&theme=holi-theme&hide_border=true&background=00000000)](https://git.io/streak-stats)
+
+<!-- Snake Eating Contributions Animation -->
+![Snake Game](https://raw.githubusercontent.com/harsh3100/harsh3100/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 🤖 **Let's Connect!**  
+<p align="center">
+  <a href="mailto:harshsinghworkofficial@gmail.com"><img src="https://img.shields.io/badge/📧_Email-FF5252?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsh3100&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Currently%20Learning-Quantum%20Computing-8A2BE2?style=flat" alt="Learning">
+</p>
