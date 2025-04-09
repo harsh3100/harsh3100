@@ -12,7 +12,7 @@
 | **Category**  | **Skills** |
 |--------------|------------|
 | **Languages** | <img src="https://skillicons.dev/icons?i=py,java,cpp,cs" alt="Languages"> |
-| **AI/ML** | <img src="https://skillicons.dev/icons?i=scikit,tensorflow,pytorch" alt="ML Frameworks"> <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2596BE?logo=python&logoColor=white) <br> ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) |
+| **AI/ML** | [Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2596BE?logo=python&logoColor=white) <br> ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) |
 | **Web Dev** | <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Dev"> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,linux,unity,vscode" alt="Tools"> |
 
