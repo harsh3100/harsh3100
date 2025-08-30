@@ -28,24 +28,3 @@
 </div>
 
 ---
-
-## 🎯 Current Focus
-<p align="center">
-  <img src="https://img.shields.io/badge/🌱_Currently_Learning-Advanced_NLP-8A2BE2?style=for-the-badge" alt="Learning">
-  <img src="https://img.shields.io/badge/🚀_Next_Goal-Contribute_to_TensorFlow-FF6F00?style=for-the-badge" alt="Goal">
-</p>
-
----
-
-## 📌 Quick Links
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-</p>
