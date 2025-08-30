@@ -20,41 +20,9 @@
 
 ---
 
-### 🎮 **Featured Projects**  
-<div align="center">
-  
-| Project | Tech | Highlights |
-|---------|------|------------|
-| **[Iris Classifier](https://github.com/harsh3100/iris-classification)** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E) | EDA • Classification • Model Evaluation |
-| **[Student Performance Predictor](https://github.com/harsh3100/student_performance_predictor)** | ![Pandas](https://img.shields.io/badge/-Pandas-150458) ![Seaborn](https://img.shields.io/badge/-Seaborn-2596BE) | 95% Accuracy • Data Visualization |
-| **[Flappy Bird Clone](https://github.com/harsh3100/flappy-bird)** | ![Unity](https://img.shields.io/badge/-Unity-000000) ![C#](https://img.shields.io/badge/-C%23-239120) | Physics • Score System • Obstacle Generation |
-
-</div>
-
 ---
 
-### 📊 **GitHub Highlights**  
-<div align="center">
-
-<!-- Compact Language Cards -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3100&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
-
-<!-- Weekly Activity -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsh3100&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
 ---
-
-### 🤖 **Let's Connect!**  
-<p align="center">
-  <a href="mailto:harshsinghworkofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-FF5252?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/harsh3100">
-    <img src="https://img.shields.io/badge/My_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
 
 ---
 
