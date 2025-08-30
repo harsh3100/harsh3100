@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Harsh Singh  
+# 👋 Hey, I am Harsh 
 
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast+🤖;Game+Development+Hobbyist+🎮;Passionate+Coder+💻;Always+Learning+%F0%9F%93%9A" alt="Typing Animation">
