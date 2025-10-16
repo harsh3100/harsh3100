@@ -1,115 +1,41 @@
-# Hi there, I'm Harsh Singh 👋
+# Harsh Singh
 
-### AI/ML Engineer | Research Enthusiast | Building Intelligent Systems
+AI/ML Engineer focused on Large Language Models, Generative AI, and Deep Learning.
 
-I'm passionate about pushing the boundaries of artificial intelligence through cutting-edge research and practical engineering. Currently focused on **Large Language Models**, **Generative AI**, and **Deep Learning** applications.
+## Research
 
----
+**Research Intern, IIT Dhanbad** (May 2025 - July 2025)
 
-## 🔬 Current Research
+Working with Prof. Mauajama Firdaus on multimodal fake news detection in code-mixed Hinglish. Developing transformer-based architectures integrating multilingual BERT and ResNet-50 with cross-attention mechanisms. Paper under review for AAAI 2026.
 
-**Research Intern @ IIT Dhanbad** *(May 2025 - July 2025)*
+## Selected Projects
 
-Working under Prof. Mauajama Firdaus on pioneering multimodal AI systems:
-- Developing transformer-based architecture for fake news detection in code-mixed Hinglish
-- Engineering multimodal fusion frameworks with cross-attention mechanisms
-- Research paper under peer review for **AAAI 2026**
+**Enterprise RAG System**  
+Production-grade Retrieval-Augmented Generation system handling 500+ requests/min with 99.9% uptime. Reduced hallucinations by 40% using hybrid search architecture.  
+*GPT-4, LangChain, Pinecone, FastAPI, AWS*
 
----
+**Fine-tuned Diffusion Model**  
+Custom Stable Diffusion XL model fine-tuned using LoRA on 15K images. Implemented DDIM schedulers for controllable generation.  
+*Stable Diffusion, PyTorch, LoRA, Gradio*
 
-## 🚀 Featured Projects
+**Context-Aware LLM Chatbot**  
+Fine-tuned LLaMA 2-13B using QLoRA on 80K conversations. Maintains 92% context retention across extended conversations.  
+*LLaMA 2, FAISS, LangChain, Streamlit*
 
-### 🧠 Enterprise RAG System
-Production-grade Retrieval-Augmented Generation system with multi-agent orchestration
-- Handles **500+ requests/min** with 99.9% uptime
-- Reduced LLM hallucinations by 40% using hybrid search architecture
-- **Tech:** GPT-4, LangChain, Pinecone, FastAPI, AWS
+## Technical Skills
 
-### 🎨 Fine-tuned Diffusion Model
-Custom generative AI model for high-fidelity image creation
-- Fine-tuned Stable Diffusion XL using LoRA on 15K images
-- Implemented advanced DDIM schedulers for controllable generation
-- **Tech:** Stable Diffusion, PyTorch, LoRA, Gradio
+**ML/AI**: PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost, MLflow, Optuna
 
-### 💬 Context-Aware LLM Chatbot
-Multi-tier memory architecture for long conversations
-- Fine-tuned LLaMA 2-13B using QLoRA on 80K conversations
-- Maintains 92% context retention across 50+ turn conversations
-- **Tech:** LLaMA 2, FAISS, LangChain, Streamlit
+**LLMs & Generative AI**: GPT-4, LLaMA, Mistral, Stable Diffusion, LangChain, LoRA, QLoRA, RAG architectures
 
----
+**Engineering**: Python, FastAPI, Flask, Docker, Kubernetes, AWS (EC2, S3, SageMaker)
 
-## 🛠️ Tech Stack
+**Data**: PostgreSQL, MongoDB, Pinecone, FAISS, Redis, Pandas, NumPy
 
-**Deep Learning & ML**
-```
-PyTorch • TensorFlow • Hugging Face • scikit-learn • XGBoost • MLflow • Optuna
-```
+## Research Interests
 
-**Generative AI & LLMs**
-```
-GPT-4 • LLaMA • Mistral • Stable Diffusion • LangChain • LlamaIndex • LoRA • QLoRA
-```
+Multimodal learning, large language models, retrieval-augmented generation, code-mixed NLP, generative AI, and AI safety.
 
-**Backend & Cloud**
-```
-Python • FastAPI • Flask • AWS (EC2, S3, SageMaker) • Docker • Kubernetes
-```
+## Contact
 
-**Data & Databases**
-```
-PostgreSQL • MongoDB • Pinecone • FAISS • Redis • Pandas • NumPy
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh3100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=3b82f6&icon_color=3b82f6&text_color=f8fafc)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh3100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e27&title_color=3b82f6&text_color=f8fafc)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsh3100&theme=tokyonight&hide_border=true&background=0a0e27&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
-
-</div>
-
----
-
-## 🎯 Research Interests
-
-- 🤖 Large Language Models (LLMs) & Foundation Models
-- 🎨 Generative AI & Diffusion Models
-- 🧠 Multimodal Learning & Cross-Attention Mechanisms
-- 📚 Retrieval-Augmented Generation (RAG) Systems
-- 🌐 Code-Mixed NLP & Multilingual Models
-- 🔍 AI Safety & Misinformation Detection
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-singh-31430635b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh_202300551@smit.smu.edu.in)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-
----
-
-## 💡 What I'm Working On
-
-- 🔭 Publishing research on multimodal fake news detection
-- 🌱 Exploring advanced RAG architectures and agentic AI systems
-- 👯 Open to collaborating on impactful AI/ML research projects
-- 💬 Ask me about LLMs, RAG systems, or diffusion models
-
----
-
-<div align="center">
-
-### "Building the future, one model at a time" 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=harsh3100&color=3b82f6&style=flat-square)
-
-</div>
+[LinkedIn](https://linkedin.com/in/harsh-singh-31430635b) • [Email](mailto:harsh_202300551@smit.smu.edu.in)
