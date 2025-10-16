@@ -1,6 +1,6 @@
 # Harsh Singh
 
-AI/ML Engineer specializing in Large Language Models and Generative AI. Currently researching multimodal systems at IIT Dhanbad.
+ I am specializing in Large Language Models and Generative AI. Currently researching multimodal systems.
 
 ## What I Work With
 
