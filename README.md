@@ -1,8 +1,3 @@
-## Welcome !!
-
-
- I am specializing in Large Language Models and Generative AI. Currently researching multimodal systems.
-
 ## What I Work With
 
 - **LLMs & Generative AI**: Fine-tuning and deploying production RAG systems, working with GPT-4, LLaMA, and Stable Diffusion
